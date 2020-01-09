@@ -1,6 +1,7 @@
 # 2019-Hallym-SW_Contest
 ## 개요
-2019년 SW Contest 출품작입니다. 
+2019년 SW Contest 출품작입니다.
+
 2019년 SW Contest 대상 수상작입니다.
 
 ## 팀
