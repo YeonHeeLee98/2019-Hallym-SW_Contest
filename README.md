@@ -1,8 +1,6 @@
 # 2019-Hallym-SW_Contest
 ## 개요
-2019년 SW Contest 출품작입니다.
-
-2019년 SW Contest 대상 수상작입니다.
+2019년 한림대학교 SW공모전 SW Contest 부문 대상 수상작입니다.
 
 ## 팀
 - 팀명 : 주차장 매니저
