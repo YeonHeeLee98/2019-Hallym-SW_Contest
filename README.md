@@ -2,7 +2,7 @@
 ## 개요
 * 2019년 한림대학교 SW공모전 출품작입니다.
 
-* SW Contest 부문 "대상" 수상작입니다.
+* SW Contest 부문 대상 수상작입니다.
 
 ## 팀
 - 팀명 : 주차장 매니저
@@ -10,7 +10,7 @@
   - 정영석 : [Keras](https://keras.io)를 사용한 차량 인식용 딥러닝 모델 구축
   - 박석주 : [FireBase](https://firebase.google.com/?gclid=CjwKCAiAxMLvBRBNEiwAKhr-nJnx6oenASpgqeAwGWb-DwlxMgEyUU4FBliOgdqjEIyl7XBcbx6KKBoCKJwQAvD_BwE)를 사용한 데이터베이스 구축, 영상 데이터 전처리
   - 류요선 : 안드로이드 어플리케이션 제작
-  - 이연희 : 안드로이드 User Interface(UI)보완, 보고서 및 포스터 제작
+  - 이연희 : 안드로이드 User Interface(UI)보완, 보고서,포스터 및 발표자료 제작
 ## 배경
 - 최근 대기 질 향상 및 보행자의 안전을 위한 “차 없는 거리” 사업이 부상
 - 대책이 마련되지 않은 채로 시행되고 있는 해당 사업은 주차 공간 부족과 같은 문제점을 야기하고 있다. 
